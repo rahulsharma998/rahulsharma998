@@ -20,14 +20,14 @@ I'm a dedicated Full Stack Developer skilled in the **MERN** stack and passionat
 ---
 
 ### Featured Project
-- **[Evolution of UI/UX](https://github.com/yourusername/evolution-ui-ux)**: A project showcasing the transformation of UI/UX in major brands like Amazon, Microsoft, Google, Facebook, and Apple. Built with **HTML, CSS, JavaScript, and React**, this project visualizes design evolution trends and best practices over the years.
+- **[Evolution of UI/UX](https://github.com/sakshimadne/Design-Discus_013)**: A project showcasing the transformation of UI/UX in major brands like Amazon, Microsoft, Google, Facebook, and Apple. Built with **HTML, CSS, JavaScript, and React**, this project visualizes design evolution trends and best practices over the years.
 
 ---
 
 ### Additional Projects
-- **[Masai Task Management](https://github.com/yourusername/masai-task-management)**: A comprehensive task management tool inspired by Microsoft To Do, with features like user authentication, task management (creation, editing, deletion, priority), multiple views (list, Kanban, calendar), real-time collaboration, notifications, recurring tasks, and Google Calendar integration.
+- **[Masai Task Management](https://github.com/DishaGupta27/SpaceX-Scripters_003)**: A comprehensive task management tool inspired by Microsoft To Do, with features like user authentication, task management (creation, editing, deletion, priority), multiple views (list, Kanban, calendar), real-time collaboration, notifications, recurring tasks, and Google Calendar integration.
 
-- **[Weather Dashboard](https://github.com/yourusername/weather-dashboard)**: A weather application fetching data from OpenWeatherMap API, allowing users to search cities, view forecasts, and save preferences. Built with **HTML, CSS, and JavaScript**.
+- **[Weather Dashboard]()**: A weather application fetching data from OpenWeatherMap API, allowing users to search cities, view forecasts, and save preferences. Built with **HTML, CSS, and JavaScript**.
 
 ---
 
