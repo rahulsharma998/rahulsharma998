@@ -27,7 +27,6 @@ I'm a dedicated Full Stack Developer skilled in the **MERN** stack and passionat
 ### Additional Projects
 - **[Masai Task Management](https://github.com/DishaGupta27/SpaceX-Scripters_003)**: A comprehensive task management tool inspired by Microsoft To Do, with features like user authentication, task management (creation, editing, deletion, priority), multiple views (list, Kanban, calendar), real-time collaboration, notifications, recurring tasks, and Google Calendar integration.
 
-- **[Weather Dashboard]()**: A weather application fetching data from OpenWeatherMap API, allowing users to search cities, view forecasts, and save preferences. Built with **HTML, CSS, and JavaScript**.
 
 ---
 
