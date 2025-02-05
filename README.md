@@ -20,7 +20,7 @@ I'm a dedicated Full Stack Developer skilled in the **MERN** stack and passionat
 ---
 
 ### Featured Project
-- **[Evolution of UI/UX](https://github.com/sakshimadne/Design-Discus_013)**: A project showcasing the transformation of UI/UX in major brands like Amazon, Microsoft, Google, Facebook, and Apple. Built with **HTML, CSS, JavaScript, and React**, this project visualizes design evolution trends and best practices over the years.
+- **[Online Pharmacy](https://679c3e27a9da88be017bd374--dashing-dragon-13ab92.netlify.app/)**: PurePharma is a comprehensive solution for purchasing health and wellness products online. It provides a user-friendly platform for browsing, filtering, and buying products like multivitamins, ensuring a seamless shopping experience. Built with a robust React front-end and a powerful Node.js back-end, this app delivers performance and reliability
 
 ---
 
